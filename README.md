@@ -25,7 +25,9 @@ I'm looking for a **Data, Database, BI or Reporting Analyst** role in Auckland.
 ---
  
 ### 📊 Projects
- 
+This project aims to develop an intelligent assistance system that supports individuals applying for non-repayable benefits and challenges unlawful sanctions. It combines OCR (Optical Character Recognition) and AI chatbot technologies to process real-world data and extract meaningful patterns to train future models.
+
+
 
 
 ---
