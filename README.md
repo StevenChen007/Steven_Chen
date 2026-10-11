@@ -25,9 +25,8 @@ I'm looking for a **Data, Database, BI or Reporting Analyst** role in Auckland.
 ---
  
 ### 📊 Projects
+**[legal_hackathon_project_extract_keywords_OCR]**
 This project aims to develop an intelligent assistance system that supports individuals applying for non-repayable benefits and challenges unlawful sanctions. It combines OCR (Optical Character Recognition) and AI chatbot technologies to process real-world data and extract meaningful patterns to train future models.
-
-
 
 
 ---
