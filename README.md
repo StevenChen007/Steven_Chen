@@ -28,7 +28,7 @@ I'm looking for a **Data, Database, BI or Reporting Analyst** role in Auckland.
 
 | Project | What it answers | Tools |
 |---|---|---|
-| 🚧 **[legal_hackathon_project_extract_keywords_OCR](#)** | How to combine OCR and AI chatbot to enable document scanning and provide lawful assistance | Python, JavaScript + Wix Velo, Tinfoil API , Wix CMS |
+| **[legal_hackathon_project_extract_keywords_OCR](#)** | How to combine OCR and AI chatbot to enable document scanning and provide lawful assistance | Python, JavaScript + Wix Velo, Tinfoil API , Wix CMS |
 
 ---
  
