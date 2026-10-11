@@ -2,7 +2,7 @@
  
 **Data Analyst | Business Analytics graduate, University of Auckland** · Auckland, New Zealand
  
-I turn messy data into clear dashboards and insights that help people make better decisions.
+I turn messy data into clear dashboards and insights that help people make better decisions. I am interested in fields of data science, computer science, data engineering, AI, and finance.
 I'm looking for a **Data, Database, BI or Reporting Analyst** role in Auckland.
  
 > ✅ **Open Work Visa valid to March 2029, so no sponsorship is required.**
